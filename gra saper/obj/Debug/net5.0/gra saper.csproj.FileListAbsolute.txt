@@ -1,5 +1,0 @@
-C:\Users\Student\source\repos\MojePierwszeRepo\gra saper\gra saper\obj\Debug\net5.0\gra saper.csproj.AssemblyReference.cache
-C:\Users\Student\source\repos\MojePierwszeRepo\gra saper\gra saper\obj\Debug\net5.0\gra saper.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Student\source\repos\MojePierwszeRepo\gra saper\gra saper\obj\Debug\net5.0\gra saper.AssemblyInfoInputs.cache
-C:\Users\Student\source\repos\MojePierwszeRepo\gra saper\gra saper\obj\Debug\net5.0\gra saper.AssemblyInfo.cs
-C:\Users\Student\source\repos\MojePierwszeRepo\gra saper\gra saper\obj\Debug\net5.0\gra saper.csproj.CoreCompileInputs.cache
