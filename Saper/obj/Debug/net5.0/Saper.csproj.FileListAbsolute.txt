@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\Saper\Saper\bin\Debug\net5.0\Saper.exe
+C:\Users\Student\source\repos\Saper\Saper\bin\Debug\net5.0\Saper.deps.json
+C:\Users\Student\source\repos\Saper\Saper\bin\Debug\net5.0\Saper.runtimeconfig.json
+C:\Users\Student\source\repos\Saper\Saper\bin\Debug\net5.0\Saper.runtimeconfig.dev.json
+C:\Users\Student\source\repos\Saper\Saper\bin\Debug\net5.0\Saper.dll
+C:\Users\Student\source\repos\Saper\Saper\bin\Debug\net5.0\ref\Saper.dll
+C:\Users\Student\source\repos\Saper\Saper\bin\Debug\net5.0\Saper.pdb
+C:\Users\Student\source\repos\Saper\Saper\obj\Debug\net5.0\Saper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Saper\Saper\obj\Debug\net5.0\Saper.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Saper\Saper\obj\Debug\net5.0\Saper.AssemblyInfo.cs
+C:\Users\Student\source\repos\Saper\Saper\obj\Debug\net5.0\Saper.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Saper\Saper\obj\Debug\net5.0\Saper.dll
+C:\Users\Student\source\repos\Saper\Saper\obj\Debug\net5.0\ref\Saper.dll
+C:\Users\Student\source\repos\Saper\Saper\obj\Debug\net5.0\Saper.pdb
+C:\Users\Student\source\repos\Saper\Saper\obj\Debug\net5.0\Saper.genruntimeconfig.cache
